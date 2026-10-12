@@ -1,0 +1,79 @@
+[
+  {
+    "file": "assets/museo-casual-fachada.jpg",
+    "description": "Fachada y acceso del Museo Casual de Bagua",
+    "width": 1280,
+    "height": 833,
+    "publisher": "MINCETUR · Inventario Nacional de Recursos Turísticos",
+    "source_page": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=11030",
+    "source_image": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=410954",
+    "retrieved_at": "2026-10-11",
+    "changes": "Ningún cambio en los archivos. El encuadre de visualización varía mediante CSS."
+  },
+  {
+    "file": "assets/museo-casual-ceramicas.jpg",
+    "description": "Cerámicas antropomorfas de la Cultura Bagua",
+    "width": 1280,
+    "height": 960,
+    "publisher": "MINCETUR · Inventario Nacional de Recursos Turísticos",
+    "source_page": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=11030",
+    "source_image": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=410862",
+    "retrieved_at": "2026-10-11",
+    "changes": "Ningún cambio en los archivos. El encuadre de visualización varía mediante CSS."
+  },
+  {
+    "file": "assets/museo-casual-mural.jpg",
+    "description": "Réplica del mural pictórico en una sala del museo",
+    "width": 1280,
+    "height": 918,
+    "publisher": "MINCETUR · Inventario Nacional de Recursos Turísticos",
+    "source_page": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=11030",
+    "source_image": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=410955",
+    "retrieved_at": "2026-10-11",
+    "changes": "Ningún cambio en los archivos. El encuadre de visualización varía mediante CSS."
+  },
+  {
+    "file": "assets/museo-casual-diorama.jpg",
+    "description": "Diorama museográfico de la vida cotidiana",
+    "width": 1047,
+    "height": 751,
+    "publisher": "MINCETUR · Inventario Nacional de Recursos Turísticos",
+    "source_page": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=11030",
+    "source_image": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=410863",
+    "retrieved_at": "2026-10-11",
+    "changes": "Ningún cambio en los archivos. El encuadre de visualización varía mediante CSS."
+  },
+  {
+    "file": "assets/museo-casual-urnas.jpg",
+    "description": "Urnas funerarias expuestas en vitrinas",
+    "width": 974,
+    "height": 1024,
+    "publisher": "MINCETUR · Inventario Nacional de Recursos Turísticos",
+    "source_page": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=11030",
+    "source_image": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=410957",
+    "retrieved_at": "2026-10-11",
+    "changes": "Ningún cambio en los archivos. El encuadre de visualización varía mediante CSS."
+  },
+  {
+    "file": "assets/museo-casual-sala.jpg",
+    "description": "Sala del museo con mapa y circulación interior",
+    "width": 1024,
+    "height": 768,
+    "publisher": "MINCETUR · Inventario Nacional de Recursos Turísticos",
+    "source_page": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=11030",
+    "source_image": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=410958",
+    "retrieved_at": "2026-10-11",
+    "changes": "Ningún cambio en los archivos. El encuadre de visualización varía mediante CSS."
+  },
+  {
+    "file": "assets/museo-casual-vitrina.jpg",
+    "description": "Vitrina con cerámicas y objetos arqueológicos",
+    "width": 1024,
+    "height": 768,
+    "publisher": "MINCETUR · Inventario Nacional de Recursos Turísticos",
+    "source_page": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=11030",
+    "source_image": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=410956",
+    "retrieved_at": "2026-10-11",
+    "changes": "Ningún cambio en los archivos. El encuadre de visualización varía mediante CSS."
+  }
+]

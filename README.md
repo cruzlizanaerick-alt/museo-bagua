@@ -2,7 +2,7 @@
 
 Visita académica de los estudiantes del Segundo Ciclo de Ingeniería Civil de la Universidad Nacional Intercultural “Fabiola Salazar Leguía” de Bagua.
 
-Curso: Cosmogonía y Cosmología Amazónica.
+Curso: Cosmogonía y Cosmovisión Amazónica.
 
 Diseño y desarrollo web: Erick Javier Cruz Lizana.
 
